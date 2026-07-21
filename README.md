@@ -1,6 +1,6 @@
 # 🤖 PersonaPulse - Groq AI Assistant
 
-PersonaPulse is a real-time, high-performance AI chatbot web application built with **Streamlit** and powered by **Groq LLaMA models**. It features dynamic system persona enforcement, real-time response streaming, and interactive theme customization.
+PersonaPulse is a real-time, high-performance AI chatbot web application built with **Streamlit** and powered by **Groq LLAMA models**. It features dynamic system persona enforcement, real-time response streaming, and interactive theme customization.
 
 ---
 
