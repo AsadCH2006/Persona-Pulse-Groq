@@ -1,0 +1,13 @@
+# Streamlit secrets (NEVER commit your actual API keys!)
+.streamlit/secrets.toml
+
+# Python virtual environment & bytecode
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# OS temporary files
+.DS_Store
+Thumbs.db
